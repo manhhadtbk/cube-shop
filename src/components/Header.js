@@ -9,7 +9,7 @@ const Header = () => {
       <div className='header-cate-icon'>
 
          <div className='header-icon'>
-            <i class="fas fa-caret-down"></i>
+            <i className="fas fa-caret-down"></i>
          </div>
 
          <div className='header__category'>

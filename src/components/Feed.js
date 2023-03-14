@@ -31,13 +31,13 @@ const Feed = () => {
       <div className="feed-main">
         {/* <div className='feed-main-nav Text-Style-22'>
         <div>
-          <i class="far fa-star"></i>
+          <i className="far fa-star"></i>
           what happen
         </div>
         <div className='feed-main-twodash'>
         </div>
         <div>
-          <i class="fas fa-times"></i>
+          <i className="fas fa-times"></i>
         </div>
       </div>
 
